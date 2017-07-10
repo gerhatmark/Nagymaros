@@ -1,0 +1,50 @@
+=== START test_database 2017-07-03 22:26:52 ===
+[ERROR] Couldn't connect to the Joomla database. Please check your parameters. And be sure the WordPress server can access the Joomla database.<br />
+SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO)<br />
+Please read the <a href="https://wordpress.org/plugins/fg-joomla-to-wordpress/faq/" target="_blank">FAQ for the solution</a>.
+=== END test_database 2017-07-03 22:26:52 ===
+
+=== START test_database 2017-07-03 22:27:09 ===
+Connected with success to the Joomla database
+Joomla data found:
+3 sections
+40 categories
+2712 articles
+0 web links
+
+[WARNING] Your Joomla database contains several users. You need the <a href="https://www.fredericgilles.net/fg-joomla-to-wordpress/" target="_blank">Premium version</a> to import them.
+[WARNING] Your Joomla database contains some Joom!Fish translations. You need the <a href="https://www.fredericgilles.net/fg-joomla-to-wordpress/" target="_blank">Premium version</a> and the <a href="https://www.fredericgilles.net/fg-joomla-to-wordpress/joomfish/" target="_blank">Joom!Fish add-on</a> to import them.
+[WARNING] Your Joomla database contains some JEvents events. You need the <a href="https://www.fredericgilles.net/fg-joomla-to-wordpress/" target="_blank">Premium version</a> and the <a href="https://www.fredericgilles.net/fg-joomla-to-wordpress/jevents/" target="_blank">JEvents add-on</a> to import them.
+=== END test_database 2017-07-03 22:27:09 ===
+
+=== START save 2017-07-03 22:27:27 ===
+Settings saved
+=== END save 2017-07-03 22:27:27 ===
+
+=== START import 2017-07-03 22:27:30 ===
+Connected with success to the Joomla database
+Joomla data found:
+3 sections
+40 categories
+2712 articles
+0 web links
+
+[WARNING] Your Joomla database contains several users. You need the <a href="https://www.fredericgilles.net/fg-joomla-to-wordpress/" target="_blank">Premium version</a> to import them.
+[WARNING] Your Joomla database contains some Joom!Fish translations. You need the <a href="https://www.fredericgilles.net/fg-joomla-to-wordpress/" target="_blank">Premium version</a> and the <a href="https://www.fredericgilles.net/fg-joomla-to-wordpress/joomfish/" target="_blank">Joom!Fish add-on</a> to import them.
+[WARNING] Your Joomla database contains some JEvents events. You need the <a href="https://www.fredericgilles.net/fg-joomla-to-wordpress/" target="_blank">Premium version</a> and the <a href="https://www.fredericgilles.net/fg-joomla-to-wordpress/jevents/" target="_blank">JEvents add-on</a> to import them.
+Importing categories...
+43 categories imported
+Importing posts...
+2712 posts imported
+0 medias imported
+0 links categories imported
+Importing web links...
+0 web links imported
+Don't forget to modify internal links.
+IMPORT COMPLETED
+=== END import 2017-07-03 22:28:43 ===
+
+=== START modify_links 2017-07-03 22:47:45 ===
+228 internal links modified
+=== END modify_links 2017-07-03 22:48:07 ===
+
